@@ -1,7 +1,7 @@
 # Nodejs-and-MySQL
 
 ## Nodemon run
-### nodemon index.js
+ nodemon index.js
 
 ## Node run
-### node index.html
+ node index.html
